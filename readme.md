@@ -1,0 +1,1 @@
+Just add whatever media you want (below 10MB) to the media folder, and run script. If you need some media to start with, download laserjesus.se/wokemedia.zip. 
